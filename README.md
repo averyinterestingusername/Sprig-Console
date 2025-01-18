@@ -13,7 +13,7 @@ Alternatively, you can build your own Sprig from a Raspberry Pi Pico W and some 
 
 ### Setup
 
-First, if you haven't already, you need to iInstall Python and Thonny
+First, if you haven't already, you need to install Python and Thonny
 
 Then, [install micropython on your Raspberry Pi Pico W](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/3) (The board on the back of your Sprig): 
 
