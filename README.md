@@ -22,10 +22,9 @@ Alternatively, you can build your own Sprig from a Raspberry Pi Pico W and some 
 
 ### Running the program
 
-To run the program, 
+Before running the program, 
 - Make sure your PC is connected to the same network as your Pico,
 - And that the credentials.py file is identical on both devices.
-
 Then:
 - Run the console.py file
 - Turn on your Sprig
