@@ -9,7 +9,7 @@ Disclaimer: Sadly, there is quite a lot of latency between pressing a key and it
 ## Instructions
 
 To make this work, you need to have a [Sprig](https://sprig.hackclub.com/) and a PC.
-Alternatively, you can build your own Sprig from a Raspberry Pi Pico W and some buttons :)
+Alternatively, you can build your own console from a Raspberry Pi Pico W and some buttons :)
 
 ### Setup
 
