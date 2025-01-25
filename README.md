@@ -2,7 +2,7 @@
 
 Hello! Because I find the Sprig looks like a game controller, I wanted use it as one!
 
-<img width="233" alt="Game_Controllers" src="https://github.com/user-attachments/assets/2b5e54a5-905c-4256-b7b9-04d01e1272a6"/>
+<img width="500" alt="Game_Controllers" src="https://github.com/user-attachments/assets/2b5e54a5-905c-4256-b7b9-04d01e1272a6"/>
 
 Disclaimer: Sadly, there is quite a lot of latency between pressing a key and it arriving at your PC. So although I really wanted to use it to play video games, it won't work for anything that requires precise timing. Or a mouse.
 
